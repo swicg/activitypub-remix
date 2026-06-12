@@ -4,7 +4,7 @@ This is the Remixing and Aggregation Task force of the Social Web Incubator Comm
 
 Action items for this Task Force will be tracked on the [Project Dashboard](https://github.com/orgs/swicg/projects/2).
 
-The first meeting of the Task Force will probably be held on July 11 from 1-2pm ET. An announcement will be posted to the SWICG mailing list.
+The Task Force [meets](https://www.w3.org/events/meetings/2b3b9228-5f3d-43ca-9d68-845b82957f25/20260612T170000/) monthly on the second Friday.
 
 ## Leads
 
