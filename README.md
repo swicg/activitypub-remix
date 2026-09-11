@@ -9,6 +9,8 @@ This is the Remixing and Aggregation Task force of the Social Web Incubator Comm
 
 ## Participate
 
+Questions, suggestions, or ideas should be submitted as [GitHub issues](https://github.com/swicg/activitypub-remix/issues).
+
 Action items for this Task Force will be tracked on the [Project Dashboard](https://github.com/orgs/swicg/projects/2).
 
 The Task Force [meets](https://www.w3.org/events/meetings/2b3b9228-5f3d-43ca-9d68-845b82957f25/20260612T170000/) monthly on the second Friday.
